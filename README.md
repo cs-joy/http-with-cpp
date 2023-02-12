@@ -7,3 +7,5 @@
 - [Signed and Unsigned Integer](https://www.ibm.com/docs/en/aix/7.1?topic=types-signed-unsigned-integers)
 - [Socket Lib](https://man7.org/linux/man-pages/man2/socket.2.html)
 - [Distructor Function](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=msvc-160#:~:text=A%20destructor%20is%20a%20member,is%20declared%3A%20~String()%20.)
+- [standard out](https://www.computerhope.com/jargon/s/stdout.htm)
+
