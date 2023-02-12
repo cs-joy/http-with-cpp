@@ -6,3 +6,4 @@
 - [API](https://www.ibm.com/cloud/learn/api#:~:text=Application%20programming%20interfaces%2C%20or%20APIs,and%20functionality%20easily%20and%20securely.)
 - [Signed and Unsigned Integer](https://www.ibm.com/docs/en/aix/7.1?topic=types-signed-unsigned-integers)
 - [Socket Lib](https://man7.org/linux/man-pages/man2/socket.2.html)
+- [Distructor Function](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=msvc-160#:~:text=A%20destructor%20is%20a%20member,is%20declared%3A%20~String()%20.)
