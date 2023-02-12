@@ -9,3 +9,5 @@
 - [Distructor Function](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=msvc-160#:~:text=A%20destructor%20is%20a%20member,is%20declared%3A%20~String()%20.)
 - [standard out](https://www.computerhope.com/jargon/s/stdout.htm)
 
+- [](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)
+
